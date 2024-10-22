@@ -1,7 +1,7 @@
 The project is divided into two main parts:
 
 
-/PART 1: FPGA IMPLEMENTATION
+PART 1: FPGA IMPLEMENTATION
 
 - Designed a decoder for the PS2 keyboard to process user inputs
 
