@@ -24,6 +24,8 @@ SYSTEM WORK FLOW:
 -The HPS receives the data and controls the LCD screen to display the user inputs and results of operations
 -The LCD screen displays the desired information, providing a visual interface for the SOC
 
+
+
 Fig. 1 Design of the project
 ![image](https://github.com/user-attachments/assets/30a44792-60da-4ab4-a29a-32478da5443c)
 Fig. 2 Reg Slave Interface
