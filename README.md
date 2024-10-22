@@ -7,7 +7,7 @@ PART 1: FPGA IMPLEMENTATION
 
 -Implemented an Arithmetic Logic Unit (ALU) on the FPGA to perform corresponding operations based on user inputs
 
--The FPGA processes the keyboard inputs and performs the desired operations using the ALU
+-The FPGA processes the keyboard inputs and performs the desired operations using the ALU 
  
 
 
