@@ -2,12 +2,16 @@ This project involves designing a System-on-Chip (SOC) using a PS2 keyboard and 
 
 PART 1: FPGA IMPLEMENTATION
 -Designed a decoder for the PS2 keyboard to process user inputs
+
 -Implemented an Arithmetic Logic Unit (ALU) on the FPGA to perform corresponding operations based on user inputs
+
 -The FPGA processes the keyboard inputs and performs the desired operations using the ALU
  
 PART 2: FPGA - HPS COMMUNICATION AND LCD DISPLAY 
 -Established communication between the FPGA and the Hard Processor System (HPS) on the Altera DE10 Standard board
+
 -Used the HPS to control an LCD screen and display the keyboard inputs and results of the operations performed by the FPGA
+
 -The LCD screen displays the user inputs and the corresponding results, providing a visual interface for the SOC
 
 KEY COMPONENTS:
