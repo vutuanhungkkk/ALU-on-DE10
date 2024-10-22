@@ -1,5 +1,6 @@
 This project involves designing a System-on-Chip (SOC) using a PS2 keyboard and an Altera DE10 Standard board. The project is divided into two main parts:
 
+
 PART 1: FPGA IMPLEMENTATION
 
 -Designed a decoder for the PS2 keyboard to process user inputs
@@ -8,6 +9,8 @@ PART 1: FPGA IMPLEMENTATION
 
 -The FPGA processes the keyboard inputs and performs the desired operations using the ALU
  
+
+
 PART 2: FPGA - HPS COMMUNICATION AND LCD DISPLAY 
 
 -Established communication between the FPGA and the Hard Processor System (HPS) on the Altera DE10 Standard board
@@ -15,6 +18,8 @@ PART 2: FPGA - HPS COMMUNICATION AND LCD DISPLAY
 -Used the HPS to control an LCD screen and display the keyboard inputs and results of the operations performed by the FPGA
 
 -The LCD screen displays the user inputs and the corresponding results, providing a visual interface for the SOC
+
+
 
 KEY COMPONENTS:
 
@@ -27,6 +32,8 @@ KEY COMPONENTS:
 -HPS: controls the LCD screen and communicates with the FPGA
 
 -LCD Screen: displays user inputs and results of operations
+
+
 
 SYSTEM WORK FLOW:
 
