@@ -1,4 +1,4 @@
-This project involves designing a System-on-Chip (SOC) using a PS2 keyboard and an Altera DE10 Standard board. The project is divided into two main parts:
+The project is divided into two main parts:
 
 
 PART 1: FPGA IMPLEMENTATION
