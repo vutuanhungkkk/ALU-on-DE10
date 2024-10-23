@@ -23,11 +23,9 @@ PART 2: FPGA - HPS COMMUNICATION AND LCD DISPLAY
 
 KEY COMPONENTS:
 
-- PS2 Keyboard: used for user input
-
 - Altera DE10 Standard Board: provides the FPGA and HPS for SOC implementation
 
-- FPGA: implements the keyboard decoder and ALU
+- PS2 Keyboard: used for user input
 
 - HPS: controls the LCD screen and communicates with the FPGA
 
