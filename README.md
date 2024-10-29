@@ -49,8 +49,6 @@ SYSTEM WORK FLOW:
 
 Fig. 1 Design of the project
 ![image](https://github.com/user-attachments/assets/30a44792-60da-4ab4-a29a-32478da5443c)
-Fig. 2 Reg Slave Interface
-![image](https://github.com/user-attachments/assets/955f18c0-6f15-4909-83c8-04b57d4a83c5)
-Fig. 3 Qsys system
+Fig. 2 Qsys system
 ![image](https://github.com/user-attachments/assets/67099ac0-f972-42dc-a6c7-40fa09e21df7)
 ![image](https://github.com/user-attachments/assets/492222bf-9cfc-4c17-8b2c-cb53c98c9122)
